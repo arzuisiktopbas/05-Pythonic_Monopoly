@@ -18,7 +18,7 @@ I have worked out all of the code and analysis that I found in part 1 to build t
 
 My results are rendered in the notebook, and the code is usable as long as it is in the pyviz environment. Additionally, in order to launch this app as a server outside of the notebook, I used the relevant object .servable().  My local browser opens a separate window with the serveable object ready when someone uses the pn.serve(), just like the gif.(below)
 
-![Dashboard](https://github.com/arzuisiktopbas/python-homework/blob/main/Homework%235/Images/Dashboard.gif)
+![Dashboard](https://github.com/arzuisiktopbas/05-Pythonic_Monopoly/blob/main/Homework%235/Images/Dashboard.gif)
 
 
 
