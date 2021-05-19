@@ -5,7 +5,7 @@
 
 [Picture Reference](https://www.sftravel.com/article/san-francisco-zoom-backgrounds-your-virtual-meetings)
 
-I was tasked with building a prototype dashboard.The goal of this dashboard is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in San Francisco.
+I was tasked with building a proto-type dashboard.The goal of this dashboard is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in San Francisco.
 
 
 ### 1 - Rental Analysis
