@@ -1,11 +1,11 @@
-# HW5 - Pythonic Monopoly
+# Pythonic Monopoly
  *by Arzu ISIK TOPBAS*
 
 <img src="https://images.pexels.com/photos/1370704/pexels-photo-1370704.jpeg" width="1000" height="250" />
 
 [Picture Reference](https://www.sftravel.com/article/san-francisco-zoom-backgrounds-your-virtual-meetings)
 
-In this homework activity, I was tasked with building a prototype dashboard.The goal of this dashboard is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in San Francisco.
+I was tasked with building a prototype dashboard.The goal of this dashboard is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in San Francisco.
 
 
 ### 1 - Rental Analysis
